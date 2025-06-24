@@ -1,12 +1,12 @@
-<h1 align="center">Hello 👋 I'm Ismail Majid</h1>
+<h1 align="center">Hello World 👋 I'm Ismail Majid</h1>
 
-# 💫 About Me:
+# About Me:
 I am a third-year CS and Bioinformatics student at UofT, passionate about exploring the realms of machine learning, AI and data science.
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-majid/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
