@@ -3,8 +3,16 @@
 # About Me:
 I am a third-year CS and Bioinformatics student at UofT, passionate about exploring the realms of machine learning, AI and data science.
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-majid/)
+# Connect with me
+
+<a href="https://www.linkedin.com/in/ismail-majid/" target="_blank" title="LinkedIn">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png" width="32" height="32" alt="LinkedIn" />
+</a>
+&nbsp; <!-- adds a little space between icons -->
+<a href="mailto:ismail.majid@mail.utoronto.ca" title="Email">
+  <img src="https://t3.ftcdn.net/jpg/13/57/95/90/360_F_1357959085_dhqh2lP2AWA95uk8vxfcHEIeE4RYlZmG.jpg" width="52" height="32" alt="Email" />
+</a>
+
 
 # Tech Stack:
 Languages: 
