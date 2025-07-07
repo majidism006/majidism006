@@ -3,7 +3,7 @@
 # About Me:
 I am a third-year CS and Bioinformatics student at UofT, passionate about exploring the realms of machine learning, AI and data science.
 
-# Connect with me
+# Connect with me:
 
 <a href="https://www.linkedin.com/in/ismail-majid/" target="_blank" title="LinkedIn">
   <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png" width="32" height="32" alt="LinkedIn" />
