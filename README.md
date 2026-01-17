@@ -1,5 +1,5 @@
 <h1><b>Hello World, I'm </b><a>Ismail Majid</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-I am a third-year CS and Bioinformatics student at UofT, passionate about exploring the realms of machine learning, AI and data science. I'm also very passionate about web design, UI/UX design and game dev! <a href="https://ismail-website-delta.vercel.app/" target="_blank">Check out my website!</a>
+I am a third-year CS and Stats student at UofT, passionate about exploring the realms of full-stack web development, UI/UX design and game dev! <a href="https://ismail-website-delta.vercel.app/" target="_blank">Check out my website!</a>
 
 
 # Connect with me:
