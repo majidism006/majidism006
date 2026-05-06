@@ -9,7 +9,7 @@ I am a third-year CS and Stats student at UofT, passionate about exploring the r
 </a>
 &nbsp; <!-- adds a little space between icons -->
 <a href="mailto:ismail.majid@mail.utoronto.ca" title="Email">
-  <img src="https://t3.ftcdn.net/jpg/13/57/95/90/360_F_1357959085_dhqh2lP2AWA95uk8vxfcHEIeE4RYlZmG.jpg" width="52" height="32" alt="Email" />
+  <img src="https://t3.ftcdn.net/jpg/13/57/95/90/360_F_1357959085_dhqh2lP2AWA95uk8vxfcHEIeE4RYlZmG.jpg" width="42" height="32" alt="Email" />
 </a>
 
 
